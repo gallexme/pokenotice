@@ -1,0 +1,20 @@
+# Ideen
+- Massen An Bots machen:
+  - simulieren laufen
+  - farmen pokestops ab
+  - fangen pokemons
+  - werfen zuviel items weg
+  - evolution/wegschicken pokemons
+  - EIER
+- Inviduelle Bots:
+  - User Gibt Account Daten
+    - Konfigurations möglichkeiten:
+      - Möglichkeit das er an einem Ort im umkreis von X KM pokestops abfarmt
+      - simulieren laufen
+      - fangen pokemons
+      - werfen zuviel items weg
+      - evolution/wegschicken pokemons
+      - EIER
+- was machen die massen an bots?
+  - Arena Übernahme Kaufbar mit möglicherweise eigene Pokemon namen? z.b Firmen Promoten
+  - verkaufen?
